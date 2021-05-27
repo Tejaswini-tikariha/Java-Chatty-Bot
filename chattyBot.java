@@ -8,7 +8,6 @@ public class chattyBot {
         remindName();
         guessAge();
         count();
-        // ...
         test();
         end();
     }
